@@ -1,0 +1,27 @@
+{
+  "name": "Node.js-with-Passport-Authentication",
+  "version": "1.0.0",
+  "description": "Complete authentication app with login, register and access control using Node.js, Express, Passport, Mongoose and more",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatriciaSilva0468/Node.js-with-Passport-Authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatriciaSilva0468/Node.js-with-Passport-Authentication/issues"
+  },
+  "homepage": "https://github.com/PatriciaSilva0468/Node.js-with-Passport-Authentication#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
